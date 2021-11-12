@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dictionary-app-react/static/css/main.f4996147.chunk.css",
+    "main.js": "/dictionary-app-react/static/js/main.1da93f14.chunk.js",
+    "main.js.map": "/dictionary-app-react/static/js/main.1da93f14.chunk.js.map",
+    "runtime-main.js": "/dictionary-app-react/static/js/runtime-main.ab9d08ea.js",
+    "runtime-main.js.map": "/dictionary-app-react/static/js/runtime-main.ab9d08ea.js.map",
+    "static/js/2.907c1eb1.chunk.js": "/dictionary-app-react/static/js/2.907c1eb1.chunk.js",
+    "static/js/2.907c1eb1.chunk.js.map": "/dictionary-app-react/static/js/2.907c1eb1.chunk.js.map",
+    "index.html": "/dictionary-app-react/index.html",
+    "static/css/main.f4996147.chunk.css.map": "/dictionary-app-react/static/css/main.f4996147.chunk.css.map",
+    "static/js/2.907c1eb1.chunk.js.LICENSE.txt": "/dictionary-app-react/static/js/2.907c1eb1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab9d08ea.js",
+    "static/js/2.907c1eb1.chunk.js",
+    "static/css/main.f4996147.chunk.css",
+    "static/js/main.1da93f14.chunk.js"
+  ]
+}
