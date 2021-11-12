@@ -1,0 +1,31 @@
+.results{
+    width: 96%;
+    margin: auto;
+    display: flex;
+    color: #BFC0C2;
+    margin-top: 1rem;
+    flex-direction: column;
+}
+
+.audio{
+    border-radius: "25px";
+    background-color: "#fff";
+}
+
+.subTitle{
+    line-height: 2;
+    font-size: 1rem;
+    word-spacing: 2px;
+    padding: 5px 15px;
+    text-align: start;
+    margin-top: 1.5rem;
+    border-radius: 10px;
+    box-shadow: -2px -2px 7px rgb(90, 90, 90), 2px 2px 8px rgb(0, 0, 0);
+}
+
+@media (max-width: 450px){
+    .audio{
+        margin: auto;
+        width: 100%;
+    }
+}
